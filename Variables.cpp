@@ -6,7 +6,8 @@ int main(){
 	cout << x << endl;
 	x = x + 2;
 	cout << x << endl;
-
+ x = x/3;
+ cout << x << endl;
 	system("Pause");
 	return 0;
 }
